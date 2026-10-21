@@ -1,0 +1,6 @@
+{
+  "blob": "159ccbf703ecd95800a36a4db4c949732369057d",
+  "bytes": 1604461,
+  "lines": 28591,
+  "hook": "[[midasm_hook]]\naddress = 0x82276780\nname = \"NewFileHook\"\nregisters = [\"r3\", \"r4\"]\nafter_instruction = false"
+}

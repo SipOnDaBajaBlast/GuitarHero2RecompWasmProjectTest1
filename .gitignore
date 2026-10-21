@@ -1,0 +1,5 @@
+assets/
+generated/
+out/
+node_modules/
+asset-inventory.json
